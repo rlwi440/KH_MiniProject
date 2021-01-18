@@ -67,7 +67,7 @@ GUI
 
 ![저장](https://user-images.githubusercontent.com/62824389/104937665-61ef5f80-59f1-11eb-869e-96cbe96ea1a8.jpg)
 
-**4. 나의원두찾기** 
+**5. 나의원두찾기** 
 
 ![나의원두](https://user-images.githubusercontent.com/62824389/104938007-d2967c00-59f1-11eb-8907-64662224de01.jpg)
 
