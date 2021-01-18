@@ -50,7 +50,7 @@
 GUI
 
 ![최종본](https://user-images.githubusercontent.com/62824389/104931344-9ced9500-59e9-11eb-9e8e-79c44cd789de.jpg)
-![칼리타](https://user-images.githubusercontent.com/62824389/104931352-a0811c00-59e9-11eb-99b4-26139a3ac0bf.jpg)
+![칼리타](https://user-images.githubusercontent.com/62824389/104931445-c27a9e80-59e9-11eb-9280-193ce9e2c296.jpg)
 
 ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a3a5a7d4-adff-4838-8cc5-89c183f65fc3/.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a3a5a7d4-adff-4838-8cc5-89c183f65fc3/.jpg)
 
