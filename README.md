@@ -57,7 +57,7 @@ GUI
 
 **2. 타이머 구현**
 
-![타이머구현](https://user-images.githubusercontent.com/62824389/104932536-146ff400-59eb-11eb-9e72-7b1fa512739a.jpg)6420-4a04-92e7-0db4b0204679/.jpg)
+![타이머구현](https://user-images.githubusercontent.com/62824389/104932536-146ff400-59eb-11eb-9e72-7b1fa512739a.jpg)
 
 **3. 물,커피 비율 (계산) 방식,초가화**
 
