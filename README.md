@@ -31,9 +31,9 @@
 
 # 3-1.구상적인 생각들 (중간)
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2fa042df-1b89-4b97-aa53-2cb5a83fb45e/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2fa042df-1b89-4b97-aa53-2cb5a83fb45e/Untitled.png)
+![구상](https://user-images.githubusercontent.com/62824389/104874386-2ecbb280-5996-11eb-9942-7c9220bc38bf.png)
+![구상2png](https://user-images.githubusercontent.com/62824389/104874390-325f3980-5996-11eb-83d2-25c50b7e3a41.png)
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/30b80c72-3a71-4df4-bddd-075de66f291f/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/30b80c72-3a71-4df4-bddd-075de66f291f/Untitled.png)
 
 ---
 
