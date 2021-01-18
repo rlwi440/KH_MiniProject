@@ -32,7 +32,7 @@
 # 3-1.구상적인 생각들 (중간)
 
 ![구상](https://user-images.githubusercontent.com/62824389/104874386-2ecbb280-5996-11eb-9942-7c9220bc38bf.png)
-![구상2png](https://user-images.githubusercontent.com/62824389/104874390-325f3980-5996-11eb-83d2-25c50b7e3a41.png)
+![구상2png](https://user-images.githubusercontent.com/62824389/104874462-60447e00-5996-11eb-96eb-6f8d95e248fd.png)
 
 
 ---
