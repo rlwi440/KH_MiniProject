@@ -67,6 +67,9 @@ GUI
 
 ![저장](https://user-images.githubusercontent.com/62824389/104937665-61ef5f80-59f1-11eb-869e-96cbe96ea1a8.jpg)
 
+**4. 나의원두찾기** 
+
+
 # 5.역할 및 담당기능
 
 ---
