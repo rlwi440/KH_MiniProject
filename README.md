@@ -49,7 +49,7 @@
 
 GUI
 
-![메인메뉴](https://user-images.githubusercontent.com/62824389/104877718-ca145600-599d-11eb-9657-a7a51cd7d56f.jpg)
+![메인메뉴2](https://user-images.githubusercontent.com/62824389/104928942-9f022480-59e6-11eb-8266-b504add78c9e.jpg)
 
 ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5a00a069-99f7-4125-9096-c0640302c0f4/jpg.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5a00a069-99f7-4125-9096-c0640302c0f4/jpg.jpg)
 
