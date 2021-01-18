@@ -61,7 +61,7 @@ GUI
 
 **3. 물,커피 비율 (계산) 방식,초가화**
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/01f970f7-f82a-4c92-a40b-ed31e3b556ac/jpg.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/01f970f7-f82a-4c92-a40b-ed31e3b556ac/jpg.jpg)
+![비율](https://user-images.githubusercontent.com/62824389/104937454-20f74b00-59f1-11eb-95c2-0c73ff0a0c79.jpg)
 
 **4. 저장** 
 
