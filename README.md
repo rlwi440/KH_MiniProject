@@ -51,14 +51,9 @@ GUI
 
 ![최종본](https://user-images.githubusercontent.com/62824389/104931344-9ced9500-59e9-11eb-9e8e-79c44cd789de.jpg)
 ![칼리타](https://user-images.githubusercontent.com/62824389/104931671-11283880-59ea-11eb-96db-6da51aef2bc2.jpg)
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a3a5a7d4-adff-4838-8cc5-89c183f65fc3/.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a3a5a7d4-adff-4838-8cc5-89c183f65fc3/.jpg)
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c13598ac-96bf-4e29-bf6e-911d568d7602/jpg.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c13598ac-96bf-4e29-bf6e-911d568d7602/jpg.jpg)
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ecad3fb4-94f0-4ced-a243-2b3e10844045/.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ecad3fb4-94f0-4ced-a243-2b3e10844045/.jpg)
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6b1db169-537d-4875-86e2-6af7065c1a5e/jpg.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6b1db169-537d-4875-86e2-6af7065c1a5e/jpg.jpg)
+![멜리타](https://user-images.githubusercontent.com/62824389/104932029-8bf15380-59ea-11eb-8714-6ae84b84bbe4.jpg)
+![고노드리퍼jpg](https://user-images.githubusercontent.com/62824389/104932036-8d228080-59ea-11eb-9f49-05426d17602d.jpg)
+![하리오드리퍼](https://user-images.githubusercontent.com/62824389/104932040-8e53ad80-59ea-11eb-9ba9-8bd5d9e01686.jpg)
 
 **2. 타이머 구현**
 
