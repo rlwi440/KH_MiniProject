@@ -49,7 +49,7 @@
 
 GUI
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f3a9e5d5-8c78-4fae-854a-6748783a566f/jpg.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f3a9e5d5-8c78-4fae-854a-6748783a566f/jpg.jpg)
+![메인메뉴](https://user-images.githubusercontent.com/62824389/104877718-ca145600-599d-11eb-9657-a7a51cd7d56f.jpg)
 
 ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5a00a069-99f7-4125-9096-c0640302c0f4/jpg.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5a00a069-99f7-4125-9096-c0640302c0f4/jpg.jpg)
 
