@@ -65,7 +65,7 @@ GUI
 
 **4. 저장** 
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0479f5b9-4c09-4aec-b8b3-4bde76eba35e/_jpg.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0479f5b9-4c09-4aec-b8b3-4bde76eba35e/_jpg.jpg)
+![저장](https://user-images.githubusercontent.com/62824389/104937665-61ef5f80-59f1-11eb-869e-96cbe96ea1a8.jpg)
 
 # 5.역할 및 담당기능
 
