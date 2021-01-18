@@ -23,7 +23,7 @@
 
 ## 3.구상적인 생각들 의견(초기)
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/66b211b7-bebd-4a79-9ec1-82a210e2d438/_.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/66b211b7-bebd-4a79-9ec1-82a210e2d438/_.jpg)
+![Mini 프로젝트사진](https://user-images.githubusercontent.com/62824389/104874026-39d21300-5995-11eb-88d4-4ed89fdf3c1c.jpg)
 
 ### 앱을 실행후  버튼 (메뉴버튼,칼리다,고노,멜리타,하리오,뒤로가기) 시간은 몇초,몇분단위 그리고 정확한 추출시간과 물과 커피의 산도 체크의 다양한 방법으로 생각하고있다.
 
