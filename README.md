@@ -1,4 +1,4 @@
-
+![배기원](https://user-images.githubusercontent.com/62824389/104977572-2f6e5280-5a43-11eb-9919-716f8f003f07.jpg)
 # 1. **PREVIEW & 개요**
 
 ---
